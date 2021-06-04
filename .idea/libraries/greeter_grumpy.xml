@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="greeter.grumpy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/module5/services/mods/greeter.grumpy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

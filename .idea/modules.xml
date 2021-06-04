@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/module2/creating_module2/src/greeter/greeter.iml" filepath="$PROJECT_DIR$/module2/creating_module2/src/greeter/greeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module5/services/src/greeter.api/greeter.api.iml" filepath="$PROJECT_DIR$/module5/services/src/greeter.api/greeter.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module5/services/src/greeter.cli/greeter.cli.iml" filepath="$PROJECT_DIR$/module5/services/src/greeter.cli/greeter.cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module5/services/src/greeter.friendly/greeter.friendly.iml" filepath="$PROJECT_DIR$/module5/services/src/greeter.friendly/greeter.friendly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module5/services/src/greeter.hello/greeter.hello.iml" filepath="$PROJECT_DIR$/module5/services/src/greeter.hello/greeter.hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-module-system-java-se-11.iml" filepath="$PROJECT_DIR$/java-module-system-java-se-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module4/resolution/src/mymodule/mymodule.iml" filepath="$PROJECT_DIR$/module4/resolution/src/mymodule/mymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module4/resolution/src/util/util.iml" filepath="$PROJECT_DIR$/module4/resolution/src/util/util.iml" />
+    </modules>
+  </component>
+</project>
